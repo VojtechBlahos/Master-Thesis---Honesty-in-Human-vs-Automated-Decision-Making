@@ -7,7 +7,7 @@ Experimental Evidence from a Benefit Eligibility Task: an oTree 6 lab experiment
 This repository has two parts:
 
 - **`experiment_app/`**: the oTree 6 lab experiment used to collect the data (deployment, design, data export)
-- **`replication_materials/`**: everything needed to reproduce every statistic, table and figure in Chapter 5 and Appendix B of the thesis, starting from the raw oTree export
+- **`stat_analysis/`**: everything needed to reproduce every statistic, table and figure in Chapter 5 and Appendix B of the thesis, starting from the raw oTree export
 
 ---
 
