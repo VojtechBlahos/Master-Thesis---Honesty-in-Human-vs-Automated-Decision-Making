@@ -9,6 +9,8 @@ This repository has two parts:
 - **`experiment_app/`**: the oTree 6 lab experiment used to collect the data (deployment, design, data export)
 - **`stat_analysis/`**: everything needed to reproduce every statistic, table and figure in Chapter 5 and Appendix B of the thesis, starting from the raw oTree export
 
+And also, a transcript a conversation with Claude Code is uploaded. Some conversations, namely with Microsof Copilot, were not able to export as it served only a small editorial role with suggestions only.  
+
 ---
 
 ## Repository structure
